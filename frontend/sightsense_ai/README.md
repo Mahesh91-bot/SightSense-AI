@@ -1,4 +1,4 @@
-# visionmate_app
+# sightsense_ai
 
 A new Flutter project.
 
