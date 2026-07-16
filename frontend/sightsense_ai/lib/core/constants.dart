@@ -13,6 +13,8 @@ class AppConstants {
   static const double defaultPadding = 16.0;
   static const double smallPadding = 8.0;
   static const double largePadding = 24.0;
+  static const double buttonVerticalPadding = 12.0;
+  static const double inputVerticalPadding = 14.0;
 
   // Radius
   static const double defaultRadius = 12.0;
